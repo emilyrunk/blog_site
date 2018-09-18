@@ -1,8 +1,9 @@
-baseurl = "Your site URL"
+baseurl = "http://www.somethingclever.com"
 languageCode = "en-us"
-Title = "Your site title"
+Title = "Emily's blog site"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
+theme = "hugo_theme_pickles"
 
 [params]
   paginate = 10
